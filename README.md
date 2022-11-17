@@ -6,6 +6,8 @@ Ciao, oggi sono qui per introdurvi un piccolo progetto ove vi è una school di C
 
 Qui troverai tutti i file necessari per studiare al meglio il C++
 
+Buona fortuna!
+
 Changelog:
 
 - WIKI COMING SOON
@@ -15,6 +17,8 @@ Changelog:
 # [EN]
 
 Hi, today I'm here to introduce you to a small project where there's a C++ school by me, here I will introduce all the programs that I'm going to create while studying this language with also source code so you can learn the C++ language.
+
+Here you will find all the files for better studying C++
 
 Changelog:
 
