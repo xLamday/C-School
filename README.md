@@ -18,7 +18,9 @@ Changelog:
 
 Hi, today I'm here to introduce you to a small project where there's a C++ school by me, here I will introduce all the programs that I'm going to create while studying this language with also source code so you can learn the C++ language.
 
-Here you will find all the files for better studying C++
+Here you will find all the files for better studying C++.
+
+Good Luck!
 
 Changelog:
 
