@@ -8,6 +8,8 @@ Qui troverai tutti i file necessari per studiare al meglio il C++
 
 Buona fortuna!
 
+Per coloro che hanno problemi nel compilare il file, assicuratevi di avere G++ installato nel vostro computer, altrimenti non sarete in grado di compilare il file e quindi fare i debug e testare il vostro programma.
+
 Changelog:
 
 - WIKI COMING SOON
@@ -21,6 +23,8 @@ Hi, today I'm here to introduce you to a small project where there's a C++ schoo
 Here you will find all the files for better studying C++.
 
 Good Luck!
+
+For those who are experiencing issues on compiling the file, assure that you have installed G++ in your computer, otherwise you'll not be able to compile the file, so you cannot do debug and test your program.
 
 Changelog:
 
